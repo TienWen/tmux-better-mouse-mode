@@ -47,6 +47,7 @@ use the plugin.
 1. Add this line to the bottom of `.tmux.conf`:
 
         run-shell ~/clone/path/scroll_copy_mode.tmux
+        bash ~/.tmux/scroll_copy_mode.tmux
 
 1. Reload TMUX environment:
 
